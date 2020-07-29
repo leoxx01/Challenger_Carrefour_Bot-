@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "desafiocarrefour-pclp",
+  "private_key_id": "b523a332bd25256853faacf418d031c95e1047a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9Wa50gU60PDTC\nUOHUcxpS2GmiBWdahDdlkQ/B7Ak0dEb3eGdIyHupElvONa9M4pgcNqLvOb17n/uo\n3sMQliITSz+csx4QtzBHClhbdH+k1rhQSmvFKaF3aSm40e9OCmXCRly+bKtvwhBx\nTTcU6nwdHUTZ1Z2wDvy/dPR+Mebao8h4Rv9w5WKvcRlx+i/PsJruBmMKaY3v+4DH\nmK6BuWyjKKKWUMH7trQvmN9Rx45eSUKVHRYBOOXpe0UwxbDOYQ9HSSgT3JktviAj\nMNcywVqB4aXc0qzdut7t3l2GkUECiYnJC5XZVpMY+s+yoTGpFZlswTFTrcCXkwh9\neqc0al1dAgMBAAECggEABYWiRhEIUc7IrhsMPvUdYSmhCQHV1gixkeN1XW8sBIzY\njfqDrpZ0LsXTihO8OUaJb5czUL0zFrIfdXkLoMX0F/JzmDcMCypAfO3jDkW7PDwr\n02GcO3t/kzsspZBvxWudtJj3NvF13XRAJQG+t7wv4ux51814RAxn2BCJ2c1MQXeE\n8VrX866rMOCk7lD/hKs+x2xnh4PAHMw2MtK7AZPTRhp5+UDWmqu4y7FkLkHu1N3r\nMoWQj4pUXF6gET5KEZNbUmyV4rK+OROhSUgcI4qtgMf0tE/s234jd+qQ+2mOwfw7\nFAcbS8XeFes4yzwuCwHVDwnFwCHmNrn4tmYunD6YEQKBgQDp+rz2B1TwY3YwQMau\nBWPRPR1yQns4PvxwDJm5X7UltTmxZeox26qlHGRpa76koa0vCQ4cC/kf9lhp4ewN\nIHznIE0zweDwL92h6Mg4MVHCcRbBDPaJEdJAI3jV90UOPy1I7ZTd4jdppSllQvHr\nSNOXy88+GlF9dMP1VMcAFDvf8QKBgQDPK7HYDPWf3W5/HS+lD+HGFeECvYNL8Mbx\nhFKpadVIYP2y+ZNrdPUO/GjQ5LaxcLJvtVhVQpU1iB3xU2xmYnUZAzM7TlDb4Yi2\nGDMwLioJp8lBQ6MOnGSGAPDHFd9QDr0eoi2TUHlKodHsTO4GF2i9otfK2k6ncWi3\nbMJiqCQALQKBgBz2HE2XurvGk+qFGhKQODq+BdcOw5HCuhxkcuKvJgz00Z9Trhld\nx1GIoiUqYP6fxH/97vEpyjxakbcJb95wFwXEycmORfl080oHNkE+WZBnzxk2MY3l\n1tB5k4tof/Ozfjd4sOSGC7XX67fNAYTODuLLJ2vYdh3BRkAnrjokRwUBAoGBAKH/\nifbm018p+NCfUvVgwOxziVrqNHQ6mGadUUI2htgtN9UvAc8CSupoB9JpNk70UCO4\nC5XIFgMhKEDgOiCpluVzMimK6QG3j37M16IyRx77vA0zxZqUQqriq2USPmhMzifZ\nK4hJYj8w4IVF9s5+maHIZ7OxF9YpgXgFLM+WqWgVAoGAG0CrJL7zqSi0uiJsOYEp\nLJx9vpKXTJ6MU9UiwKUAt4aKuiDdl4lfn88+UCYsXkV2vuCbjgoexmVeXxS+uj9q\nOcJ9xAVuJeJAfo7jI/sdsRcVST5wgtq7giIzZbNDfAS82YQ4cn4pQwZrIfB0BDIl\nsqOW8kqah8hajgOHPNq1s2I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ukiaxk@desafiocarrefour-pclp.iam.gserviceaccount.com",
+  "client_id": "110172470148214838100",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ukiaxk%40desafiocarrefour-pclp.iam.gserviceaccount.com"
+}
