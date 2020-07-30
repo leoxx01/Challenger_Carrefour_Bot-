@@ -18,6 +18,10 @@
     "moveis": "https://www.carrefour.com.br/dicas/casa-e-decoracao/moveis?crfint=hm-tlink|casa-e-decoracao|montando-a-casa|4|moveis|2",
     "fogao": "https://www.carrefour.com.br/fogao?crfint=hm-tlink|casa-e-decoracao|eletrodomesticos|5|fogao|5",
     "sofa": "https://www.carrefour.com.br/sofa?crfint=hm-tlink|casa-e-decoracao|moveis|6|sofa|1"
-
-}
+},
+"/contato":"https://www.carrefour.com.br/atendimento",
+"/lojas": "https://www.carrefour.com.br/localizador-de-lojas",
+"/ofertas": "https://www.carrefour.com.br/institucional/ofertas-das-lojas",
+"/cartao": "https://www.carrefour.com.br/cartao-carrefour",
+"/duvidas": "https://www.carrefour.com.br/atendimento/faq-site"
 }
