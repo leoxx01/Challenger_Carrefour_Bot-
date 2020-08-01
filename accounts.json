@@ -1,0 +1,7 @@
+{
+    "accounts":[
+        {"name": "Leonardo" ,"cpf":"12345678910","value": 100},
+        {"name": "Geovana" ,"cpf":"12345678911","value": 2000},
+        {"name": "Ana" ,"cpf":"12345678911","value": 1500}
+    ]
+}

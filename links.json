@@ -17,7 +17,8 @@
     "cozinha": "https://www.carrefour.com.br/dicas/casa-e-decoracao/utilidade-domestica?crfint=hm-tlink|casa-e-decoracao|cuidando-da-casa|4|utilidades-domesticas|1",
     "moveis": "https://www.carrefour.com.br/dicas/casa-e-decoracao/moveis?crfint=hm-tlink|casa-e-decoracao|montando-a-casa|4|moveis|2",
     "fogao": "https://www.carrefour.com.br/fogao?crfint=hm-tlink|casa-e-decoracao|eletrodomesticos|5|fogao|5",
-    "sofa": "https://www.carrefour.com.br/sofa?crfint=hm-tlink|casa-e-decoracao|moveis|6|sofa|1"
+    "sofa": "https://www.carrefour.com.br/sofa?crfint=hm-tlink|casa-e-decoracao|moveis|6|sofa|1",
+    "notebookAcer":{"value": "Valor: R$ 3.289,00" , "parcelamentoSemCartao": "até 10x de R$ 328,90 sem juros", "parcelamentoComCartao": "20x R$ 164,45sem juros" }
 },
 "/contato":"https://www.carrefour.com.br/atendimento",
 "/lojas": "https://www.carrefour.com.br/localizador-de-lojas",

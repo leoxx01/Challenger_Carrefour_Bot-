@@ -31,4 +31,5 @@ const sendMsg = async (chatId,msg) =>{
     }
 }
 
+
 module.exports.sendMsg = sendMsg
